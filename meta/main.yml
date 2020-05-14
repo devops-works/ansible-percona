@@ -1,0 +1,18 @@
+---
+galaxy_info:
+  author: devopsworks
+  description: Percona role
+  company: devopsworks
+  license: MIT
+  min_ansible_version: 1.8
+
+  platforms:
+    - name: Ubuntu
+      versions:
+        - focal
+        - bionic
+        - xenial
+  galaxy_tags:
+    - databases
+
+dependencies: []
